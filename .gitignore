@@ -1,0 +1,4 @@
+.vscode
+pybin
+credentials.json
+__pycache__

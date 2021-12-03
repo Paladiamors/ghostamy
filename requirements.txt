@@ -1,0 +1,15 @@
+autopep8==1.6.0
+bcrypt==3.2.0
+cffi==1.15.0
+flake8==4.0.1
+greenlet==1.1.2
+inflect==5.3.0
+mccabe==0.6.1
+mysqlclient==2.1.0
+pycodestyle==2.8.0
+pycparser==2.21
+pyflakes==2.4.0
+six==1.16.0
+sqlacodegen==2.3.0
+SQLAlchemy==1.4.27
+toml==0.10.2
